@@ -1,0 +1,1 @@
+group-type=farmer&group-name=Hidden+dudes&acres=12&fertility=12&crop-type=wheat&skill-stupidity=12&harvest-losses=12&threshing-losses=12&raiding-losses=12&animal-losses=12&plague-losses=12&farmer-number=12&farmer-consumption=12

@@ -1,0 +1,1 @@
+group-type=soldier&group-name=Lads&numbers=100&average-pay=1
